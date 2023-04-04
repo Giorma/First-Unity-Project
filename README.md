@@ -1,2 +1,2 @@
 # First-Unity-Project
-Chiti Xeze - game like floppy bird
+Chiti Xeze - game like flappy bird
